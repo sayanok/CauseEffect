@@ -1,0 +1,17 @@
+.sidebar {
+  width:300px;
+  text-align:center;
+} 
+
+.profile {
+  text-align:center;
+  margin-left:10px;
+}
+
+body {
+  display:flex;
+}
+
+li {
+  list-style: none;
+}
